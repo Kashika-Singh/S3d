@@ -1,0 +1,24 @@
+[
+  {
+    "keys": [
+      "SN2",
+      "SN3",
+      "FA17",
+      "FA11",
+      "FA13"
+    ],
+    "expression": "{PipeSupportType}-{ShoeHeight}",
+    "properties": [
+      {
+        "name": "PipeSupportType",
+        "property": "SupportNumber",
+        "interface": "IJUAhsSupportNumber"
+      },
+      {
+        "name": "ShoeHeight",
+        "property": "ShoeHeight",
+        "interface": "IJUAhs_ShoeHeight"
+      }
+    ]
+  }
+]

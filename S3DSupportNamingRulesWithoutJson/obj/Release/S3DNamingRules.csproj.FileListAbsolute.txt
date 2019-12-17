@@ -1,0 +1,16 @@
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\S3DNamingRules.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\S3DNamingRules.pdb
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\CommonMiddle.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\NamingSources.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\ObjectNamingLogic.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\Newtonsoft.Json.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\ADODB.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\stdole.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\NamingSources.pdb
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\ObjectNamingLogic.pdb
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\bin\Release\Newtonsoft.Json.xml
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\obj\Release\S3DNamingRules.csprojAssemblyReference.cache
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\obj\Release\S3DNamingRules.csproj.CoreCompileInputs.cache
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\obj\Release\S3DNamingRules.csproj.CopyComplete
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\obj\Release\S3DNamingRules.dll
+C:\Users\UrazaeA\OneDrive - Jacobs\repos\WorleyProjects\EngineeringNamingRules\S3DNamingRules\obj\Release\S3DNamingRules.pdb
